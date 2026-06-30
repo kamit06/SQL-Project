@@ -149,27 +149,3 @@ Primary_Diagnosis, Avg(BMI) as Avg_BMI from [dbo].[Indian_healthcare$]
 Group by Primary_Diagnosis
 Order by Avg_BMI;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
